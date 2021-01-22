@@ -31,12 +31,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Lighthouse Performance Screenshots
 
 ### Mobile
-![Screenshot](screenshots/Mobile%20Performance%201.PNG)
+![Screenshot](screenshots/Mobile%20Performance1%20(Prod).PNG)
 
 ### Desktop
-![Screenshot](screenshots/Desktop%20Performance%20Score.PNG)
+![Screenshot](screenshots/Desktop%20Performance%20(Prod).PNG)
 
 ### Heroku Deployment
 Visit https://spacex-launch-programs-demo.herokuapp.com/
 
-![Screenshot](screenshots/Heroku%20Deployment.PNG)
+### Vercel Deployment
+Visit https://spacex-launch-programs-nine.vercel.app/
