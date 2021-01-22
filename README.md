@@ -1,5 +1,5 @@
-# spacex_launch_programs
-A demo application to demonstrate all SpaceX Launch Programs
+# SpaceX Launch Programs
+A frontend demo application to demonstrate all SpaceX Launch Programs
 
 ## Lighthouse Performance Screenshots
 
