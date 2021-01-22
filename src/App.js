@@ -68,7 +68,7 @@ class App extends Component {
           <Container fluid>
             
             <Row>
-              <Col xs={12} sm={12} md={6} lg={3}>
+              <Col xs={12} sm={12} md={6} lg={2}>
               <Card className="App-filter-card">
                 <Card.Body>
 
