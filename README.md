@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Lighthouse Performance Screenshots
 
 ### Mobile
-![Screenshot](Mobile%20Performance%201.PNG)
+![Screenshot](screenshots/Mobile%20Performance%201.PNG)
 
 ### Desktop
-![Screenshot](Desktop%20Performance%20Score.PNG)
+![Screenshot](screenshots/Desktop%20Performance%20Score.PNG)
