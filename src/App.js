@@ -183,11 +183,11 @@ class App extends Component {
               </Card>
 
               </Col>
-              <Col xs={12} sm={12} md={6} lg={9} >
+                <Col xs={12} sm={12} md={6} lg={9}>
               <Row>
                 {data.map((data)=>{
                   return(
-                    <Col md={12} lg={4}>
+                    <Col md={12} lg={3}>
                       <RocketLaunchDetails data={ data } />
                     </Col>
                   );
